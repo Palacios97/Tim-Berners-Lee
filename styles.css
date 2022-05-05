@@ -1,0 +1,135 @@
+/*-----Body------*/
+body {
+    font-family: 'Open Sans', sans-serif;
+    background: rgb(224, 214, 214);
+}
+/*------Header-----*/
+.Tim{
+    background:white;
+    display:block;
+    width: 31rem;
+    margin: auto;
+ padding: 2rem;
+ border-width: 1px;
+    color:  rgb(122, 114, 114);
+    border: 4px;
+
+box-shadow: 2px 1px 13px 6px rgba(0,0,0,0.69);
+}
+header img{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    border-style: groove;
+   display:block;
+   margin: 0px auto;
+  }
+
+  header h1{
+      text-align:center;
+      color:tomato;
+  }
+  header h2{
+      text-align:center;
+      color: rgb(122, 114, 114);
+  }
+  header .button{
+text-decoration:none;
+font-weight: 600;
+font-size: 20px;
+color:#ffffff;
+background-color:#f2595e;
+border-color: #F69DA1;
+border-width: 2px;
+border-style: solid;
+display: inline-block;
+margin-left: 155px;
+margin-right: 70px;
+margin-bottom: 20px;
+padding:5px;
+}
+.button:hover{
+    background-color:#000000;
+color:white;
+}
+/*------section-----*/
+.social{
+    background:white;
+    width: 559px;
+    height: 200px;
+    margin:auto;
+    border: 4px;
+box-shadow: 2px 1px 13px 6px rgba(0,0,0,0.69);
+}
+section .socialurl{
+display: inline-block;
+padding: 4px;
+padding-top: 68px;
+margin: 2px;
+color:rgba(143, 140, 140, 0.753);
+text-decoration: none;
+}
+svg{
+    display: flex;
+}
+.bibifacebook{
+width: 30px;
+height: 30px;
+}
+ul{
+    text-align: center;
+    padding: 0px;
+    padding-right: 50px;
+}
+.bibifacebook:hover{
+    color: black;
+}
+/*------main-----*/
+.lee{
+    margin-top: 4px;
+}
+.movies {
+    background:white;
+    color:  rgb(122, 114, 114);
+    width: 559px;
+    height: auto;
+    margin:auto;
+    border: 4px;
+    box-shadow: 2px 1px 13px 6px rgba(0,0,0,0.69);
+}
+h3{
+ text-align: center;
+  padding: 10px;
+  color: rgb(122, 114, 114);
+  font-size: 25px;
+  padding-top: 25px;
+}
+section b{
+    float: right;
+}
+.space{
+    text-align: center;
+    padding-right: 166px;
+    
+}
+.hulot{
+    float:right;
+    padding-right: 184px;
+}
+.alien{
+    float:right;
+  padding-right:232px;
+}
+blockquote{
+   clear: right;
+text-align:center;
+padding: 18px;
+}
+.images{
+    float: left;
+    margin-bottom: 5px;
+    padding: 10px;
+    width:110px;
+}
+
